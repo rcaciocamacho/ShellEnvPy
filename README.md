@@ -1,6 +1,6 @@
 # Gestor de Entornos Virtuales de Python
 
-> Este script en Python permite gestionar entornos virtuales de Python en sistemas operativos Windows.
+> Este script en Python permite gestionar entornos virtuales de Python en sistemas operativos linux basados en Arch linux.
 > Proporciona opciones para crear, activar, desactivar y eliminar entornos virtuales.
 
 ## Uso
